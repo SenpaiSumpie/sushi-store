@@ -83,3 +83,8 @@
 
     cursor: pointer;
 }
+
+.subscription__form button:hover {
+    background: #fff;
+    color: var(--black-400)
+}
