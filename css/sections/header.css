@@ -27,7 +27,6 @@
     text-transform: uppercase;
     font-family: var(--playfair-display);
     color: #fff;
-    opacity: 0.8;
 }
 
 .header__menu,
